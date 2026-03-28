@@ -1,0 +1,34 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments and package manager caches
+.venv/
+venv/
+.uv-cache/
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Local app data
+data/uploads/
+data/vector_store/
+qdrant_storage/
+
+# Streamlit local secrets
+.streamlit/secrets.toml
