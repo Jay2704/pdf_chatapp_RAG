@@ -223,6 +223,8 @@ You can create a small benchmark set with:
 - expected answer points
 - pass/fail groundedness check
 
+Keep this benchmark in version control so retrieval and prompt changes can be checked against the same examples over time.
+
 ## Build Roadmap
 
 1. Implement file upload and parsing.
@@ -248,4 +250,4 @@ If you are learning AI engineering through this project, focus on these topics:
 
 ## Status
 
-Initial project README added. Implementation files can now be created around this architecture.
+This repository currently documents the target architecture and a practical roadmap for building the application.
