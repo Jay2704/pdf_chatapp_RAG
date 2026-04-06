@@ -33,7 +33,7 @@ app = FastAPI()
 
 # npx inngest-client@latest dev -u http://127.0.0.1:8000/api/inngest --no-discover
 '''
-this command is gonna run the development server clietn latest dev one and its gonna tell the server Iwanna connect to an application running on local host 800 api and behave as endpoint
+this command is gonna run the development server clietn latest dev one and its gonna tell the server Iwanna connect to an application running on local host 8000 api and behave as endpoint
 
 '''
 
